@@ -33,14 +33,13 @@
 ## 🛠 Langkah 2 - Membuat Project Express.js
 
 1. **Buat Folder Project Baru**:  
-   Contoh, buat folder `expressbasic`.  
+   Contoh, buat folder `express01`.  
    Buka **Command Prompt**, lalu ketik:
 
    ```bash
-   mkdir expressbasic
-   cd expressbasic
+   mkdir pemrograman-berbasis-web/
+   cd pemrograman-berbasis-web
    ```
-
 2. **Install Express Generator Secara Global**:
 
    ```bash
@@ -48,16 +47,16 @@
    ```
 
 3. **Generate Project Express Baru**:  
-   Nama project tetap `expressbasic`, menggunakan template engine `ejs`:
+   Nama project tetap `express01`, menggunakan template engine `ejs`:
 
    ```bash
-   express --view=ejs expressbasic
+   express --view=ejs express01
    ```
 
 4. **Masuk ke dalam Folder Project**:
 
    ```bash
-   cd expressbasic
+   cd express01
    ```
 
 5. **Install Dependensi Project**:
@@ -126,7 +125,7 @@
 5. **Hubungkan ke Remote Repository**:
 
    ```bash
-   git remote add origin https://github.com/username/expressbasic.git
+   git remote add origin https://github.com/username/nama-repo/tree/main/express01.git
    ```
 
 6. **Push Project ke GitHub**:
