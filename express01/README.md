@@ -118,7 +118,7 @@
 3. **Commit perubahan pertama**:
 
    ```bash
-   git commit -m "Initial commit: Setup Express.js Project expressbasic"
+   git commit -m "Initial commit: Setup Express.js Project express01"
    ```
 
 4. **Buat Repository di GitHub** melalui web browser.
