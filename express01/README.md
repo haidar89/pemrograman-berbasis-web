@@ -33,12 +33,12 @@
 ## 🛠 Langkah 2 - Membuat Project Express.js
 
 1. **Buat Folder Project Baru**:  
-   Contoh, buat folder `express01`.  
+   Contoh, buat folder `pemrograman-web`.  
    Buka **Command Prompt**, lalu ketik:
 
    ```bash
-   mkdir pemrograman-berbasis-web/
-   cd pemrograman-berbasis-web
+   mkdir pemrograman-web/
+   cd pemrograman-web
    ```
 2. **Install Express Generator Secara Global**:
 
@@ -137,7 +137,7 @@
 
 ---
 
-## ❗️ Troubleshooting Umum (Windows)
+## ❗️ Troubleshooting
 
 - **npm install error**:  
   Pastikan Anda menjalankan terminal sebagai **Administrator** jika ada masalah permission.
