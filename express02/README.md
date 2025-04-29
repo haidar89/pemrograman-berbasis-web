@@ -224,3 +224,8 @@ express02/
 ├── app.js
 └── package.json
 ```
+
+🖥️ Output:
+![alt text](https://github.com/haidar89/pemrograman-berbasis-web/img/main/2a.png?raw=true)
+![alt text](https://github.com/haidar89/pemrograman-berbasis-web/img/main/2b.png?raw=true)
+![alt text](https://github.com/haidar89/pemrograman-berbasis-web/img/main/2c.png?raw=true)
