@@ -11,7 +11,9 @@ Setiap folder berisi satu modul/topik pembelajaran.
 |:---:|:------------|:-----------------------------------------------------------------------|:-------------|
 | 1   | [express01](./express01) | Setup Project Express.js dan Hello World                             | ✅ Selesai     |
 | 2   | [express02](./express02) | Routing, Template EJS, Dynamic Content                                | ✅ Selesai     |
-| 3   | express03    | (Coming Soon)                                                        | 🔜 Dalam Persiapan |
+| 3   | [express03](./express03)    | Koneksi Database Menggunakan Express.js                            | ✅ Selesai |
+| 4   | express04(./express04)    | (Coming Soon)                                                        | 🔜 Dalam Persiapan |
+| 5   | express05(./express05)    | (Coming Soon)                                                        | 🔜 Dalam Persiapan |
 
 ---
 
