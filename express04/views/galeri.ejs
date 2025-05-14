@@ -1,0 +1,20 @@
+<%- include('partials/header') %>
+<h2>Galeri <%= kategori %></h2>
+<div class="row">
+  <% data.forEach(objek => { %>
+    <div class="col-md-4">
+      <div class="card mb-4">
+        <img src="/img/<%= objek.image %>" class="card-img-top" alt="<%= objek.nama %>">
+        <div class="card-body">
+          <h5 class="card-title"><%= objek.nama %></h5>
+          <p class="card-text"><%= objek.deskripsi %></p>
+          <audio controls>
+            <source src="/audio/<%= objek.audio %>" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </div>
+    </div>
+  <% }) %>
+</div>
+<%- include('partials/footer') %>
