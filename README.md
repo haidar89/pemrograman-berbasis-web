@@ -13,7 +13,7 @@ Setiap folder berisi satu modul/topik pembelajaran.
 | 2   | [express02](./express02) | Routing, Template EJS, Dynamic Content                                | ✅ Selesai     |
 <<<<<<< HEAD
 | 3   | [express03](./express03)    | Koneksi Database Menggunakan Express.js                            | ✅ Selesai |
-| 4   | express04(./express04)    | (Coming Soon)                                                        | 🔜 Dalam Persiapan |
+| 4   | express04(./express04)    | Studi Kasus Galeri Hewan, Buah, dan Kendaraan untuk Anak TK                                                        | 🔜 Dalam Persiapan |
 | 5   | express05(./express05)    | (Coming Soon)                                                        | 🔜 Dalam Persiapan |
 =======
 | 3   | express03    | (Coming Soon)                                                        | 🔜 Dalam Persiapan |
